@@ -19,4 +19,4 @@
 
 **FLOWCHART:**
 
-<img width="1741" height="1079" alt="ChurnModel_fc" src="https://github.com/user-attachments/assets/028da681-503f-4710-990e-25a9bc51c14e" />
+<img width="1759" height="1068" alt="ChurnModel_fc" src="https://github.com/user-attachments/assets/01d02fbe-a7eb-4255-bd48-0ad86c80ac6d" />
